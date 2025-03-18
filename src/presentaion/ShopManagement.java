@@ -225,7 +225,7 @@ public class ShopManagement {
                                                 break;
                                             case 5:
                                                 System.out.print("Nhập mô tả mới: ");
-                                                products[i].setTitle(scanner.nextLine());
+                                                products[i].setDescription(scanner.nextLine());
                                                 break;
                                             case 6:
                                                 System.out.print("Nhập số lượng mới: ");
